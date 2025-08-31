@@ -51,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [1764-maximum-repeating-substring](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1764-maximum-repeating-substring) |
+| [3684-substring-matching-pattern](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3684-substring-matching-pattern) |
 ## String Matching
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [1764-maximum-repeating-substring](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1764-maximum-repeating-substring) |
+| [3684-substring-matching-pattern](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3684-substring-matching-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
