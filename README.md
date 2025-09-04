@@ -77,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2227-sum-of-subarray-ranges](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+## Math
+|  |
+| ------- |
+| [3830-find-closest-person](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3830-find-closest-person) |
 <!---LeetCode Topics End-->
