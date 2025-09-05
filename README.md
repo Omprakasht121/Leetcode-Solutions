@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0459-repeated-substring-pattern](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [1764-maximum-repeating-substring](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1764-maximum-repeating-substring) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [2227-sum-of-subarray-ranges](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
