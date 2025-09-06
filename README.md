@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0179-largest-number) |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
