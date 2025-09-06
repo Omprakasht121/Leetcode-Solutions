@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0078-subsets) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
