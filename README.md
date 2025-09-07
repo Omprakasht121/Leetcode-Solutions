@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2227-sum-of-subarray-ranges](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3790-fruits-into-baskets-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -124,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3790-fruits-into-baskets-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [3790-fruits-into-baskets-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
