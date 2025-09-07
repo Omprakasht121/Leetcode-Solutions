@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0390-elimination-game](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0390-elimination-game) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3830-find-closest-person](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3830-find-closest-person) |
 ## Greedy
@@ -134,4 +136,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0390-elimination-game](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
