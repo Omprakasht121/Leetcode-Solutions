@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Backtracking
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3830-find-closest-person](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3830-find-closest-person) |
 ## Greedy
