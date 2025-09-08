@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0390-elimination-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3830-find-closest-person](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3830-find-closest-person) |
 ## Greedy
