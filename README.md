@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
