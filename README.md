@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
