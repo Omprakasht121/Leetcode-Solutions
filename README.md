@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0390-elimination-game](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0390-elimination-game) |
+| [0445-add-two-numbers-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
