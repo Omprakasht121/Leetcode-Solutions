@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [1006-vowel-spellchecker](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1764-maximum-repeating-substring](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1764-maximum-repeating-substring) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0409-longest-palindrome](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [1006-vowel-spellchecker](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
