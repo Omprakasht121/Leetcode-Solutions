@@ -13,12 +13,13 @@ class Solution {
         map.put(15,"f");
         long n = num & 0xFFFFFFFFL;
         // String map = "0123456789abcdef".toCharArray();
+        StringBuilder sb = new StringBuilder();
         String ans = "";
         while(n>0){
             int x = (int)(n % 16);
-            ans = map.get(x) + ans;
+            sb.append(map.get(x));
             n = n/16;
         }
-        return ans;
+        return sb.reverse().toString();
     }
 }
