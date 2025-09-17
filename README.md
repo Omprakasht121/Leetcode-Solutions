@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0390-elimination-game](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0390-elimination-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
