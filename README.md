@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1764-maximum-repeating-substring](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1764-maximum-repeating-substring) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3684-substring-matching-pattern](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3684-substring-matching-pattern) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2470-removing-stars-from-a-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2470-removing-stars-from-a-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
