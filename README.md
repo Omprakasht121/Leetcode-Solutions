@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0394-decode-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0409-longest-palindrome](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [1006-vowel-spellchecker](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
