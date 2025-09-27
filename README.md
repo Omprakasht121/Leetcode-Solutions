@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [2887-sort-vowels-in-a-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Tree
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [1006-vowel-spellchecker](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
