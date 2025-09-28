@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0347-top-k-frequent-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0347-top-k-frequent-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [2887-sort-vowels-in-a-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [1006-vowel-spellchecker](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -282,13 +286,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
