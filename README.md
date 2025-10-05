@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1006-vowel-spellchecker](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0680-valid-palindrome-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
