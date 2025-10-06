@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0147-insertion-sort-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0148-sort-list) |
@@ -272,12 +273,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0148-sort-list) |
 ## Number Theory
 |  |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
