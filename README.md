@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2887-sort-vowels-in-a-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Tree
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3790-fruits-into-baskets-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
