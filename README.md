@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0841-shortest-distance-to-a-character) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [1006-vowel-spellchecker](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
