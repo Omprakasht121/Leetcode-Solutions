@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bucket Sort
 |  |
