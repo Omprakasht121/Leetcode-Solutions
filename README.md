@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1635-number-of-good-pairs](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1635-number-of-good-pairs](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bucket Sort
