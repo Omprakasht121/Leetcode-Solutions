@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1666-make-the-string-great](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [1764-maximum-repeating-substring](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1764-maximum-repeating-substring) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bucket Sort
