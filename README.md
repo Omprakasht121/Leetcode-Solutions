@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1635-number-of-good-pairs](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2227-sum-of-subarray-ranges](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1848-sum-of-unique-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
