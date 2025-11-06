@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [1764-maximum-repeating-substring](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1764-maximum-repeating-substring) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
