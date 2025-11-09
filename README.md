@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1635-number-of-good-pairs](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/3447-clear-digits) |
