@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1635-number-of-good-pairs](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1006-vowel-spellchecker](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/Omprakasht121/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
